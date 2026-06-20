@@ -32,6 +32,13 @@ Googleドライブの左側サイドメニュー（マイドライブやゴミ�
 * 本拡張機能は、GoogleドライブのHTMLクラス名（`div.ZHllM` など）を指定して動作しています。そのため、**Googleドライブ側の仕様変更やデザインのアップデートがあった場合、突然動作しなくなる可能性があります。** あらかじめご了承ください。
 * 本ツールは個人開発の非公式ツールです。ご利用は自己責任でお願いいたします。
 
+## 🙏 謝辞 (Acknowledgments)
+
+本拡張機能を作成するにあたり、以下の既存ツールや記事のアプローチ・アイデアを参考にさせていただきました。この場を借りて感謝申し上げます。
+
+* [Google Drive Sidebar Toggler](https://chromewebstore.google.com/detail/google-drive-sidebar-togg/fdmlgpnckdndmeoofglbgeijcocpaegc) (Chromeウェブストア)
+* [Googleドライブの右サイドパネルを非表示にするブックマークレット](https://pajoca.com/hide-googledrive-sidepanel/)
+
 ## 📄 ライセンス
 
 MIT License
