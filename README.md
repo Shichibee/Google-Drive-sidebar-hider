@@ -8,6 +8,11 @@ Googleドライブの左側サイドメニュー（マイドライブやゴミ�
 * **カスタマイズ可能な設定画面:** 自動開閉のON/OFFや、折りたたむ基準となるウィンドウ幅（px）を自由に設定できます。
 * **アイコン切り替えギミック:** Googleドライブのタブを開いている時だけ、ブラウザ右上の拡張機能アイコンがカラーになります。
 
+<img width="374" height="460" alt="before" src="https://github.com/user-attachments/assets/5b51dda0-c8a7-4ae7-a8a7-28902e4fb7fb" />
+<img width="374" height="459" alt="after" src="https://github.com/user-attachments/assets/09072dec-f86a-4797-9bc1-af8eed5123f4" />
+
+<img width="959" height="565" alt="2分割" src="https://github.com/user-attachments/assets/60db91d7-70d9-4d1e-baec-3c276efc1fab" />
+
 ## 📦 インストール方法（導入手順）
 
 この拡張機能はChromeウェブストアには公開していないため、以下の手順でブラウザに直接読み込ませて使用します。
