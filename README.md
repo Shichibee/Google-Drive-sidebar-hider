@@ -44,6 +44,8 @@ Googleドライブの左側サイドメニュー（マイドライブやゴミ�
 * [Google Drive Sidebar Toggler](https://chromewebstore.google.com/detail/google-drive-sidebar-togg/fdmlgpnckdndmeoofglbgeijcocpaegc) (Chromeウェブストア)
 * [Googleドライブの右サイドパネルを非表示にするブックマークレット](https://pajoca.com/hide-googledrive-sidepanel/)
 
+また、これらのプログラムはほとんどGeminiに書かせました。
+
 ## 📄 ライセンス
 
 MIT License
