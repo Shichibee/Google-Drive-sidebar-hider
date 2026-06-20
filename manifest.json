@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Drive Sidebar Toggler",
+  "version": "2.2",
+  "description": "Googleドライブのサイドメニューを自動・手動で快適に開閉します",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "tabs"
+  ],
+  "action": {
+    "default_icon": "icon_mono.png"
+  },
+  "icons": {
+    "128": "icon_color.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://drive.google.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "options_page": "options.html"
+}
